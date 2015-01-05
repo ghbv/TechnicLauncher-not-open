@@ -1,0 +1,4 @@
+TechnicLauncher-not-open
+========================
+
+CRASHED !
